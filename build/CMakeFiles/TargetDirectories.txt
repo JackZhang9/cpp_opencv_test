@@ -1,0 +1,3 @@
+/home/user/vscode_fiels/20230520/build/CMakeFiles/rebuild_cache.dir
+/home/user/vscode_fiels/20230520/build/CMakeFiles/demo.dir
+/home/user/vscode_fiels/20230520/build/CMakeFiles/edit_cache.dir

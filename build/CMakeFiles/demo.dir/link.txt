@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/demo.dir/src/main.cpp.o  -o ../bin/demo  -L/home/user/vscode_fiels/20230520/lib -Wl,-rpath,/home/user/vscode_fiels/20230520/lib -llibtest 

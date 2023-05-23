@@ -1,0 +1,3 @@
+/home/user/vscode_fiels/20230520/src/build/CMakeFiles/rebuild_cache.dir
+/home/user/vscode_fiels/20230520/src/build/CMakeFiles/libtest.dir
+/home/user/vscode_fiels/20230520/src/build/CMakeFiles/edit_cache.dir
